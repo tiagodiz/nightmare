@@ -88,9 +88,9 @@ CREATE TABLE `config` (
   `description` varchar(300) DEFAULT NULL,
   `date` date DEFAULT NULL
 );
-INSERT INTO "config" VALUES(7,'SAMPLES_PATH','/home/joxean/Documentos/research/nightmare/results',NULL,NULL);
-INSERT INTO "config" VALUES(8,'TEMPLATES_PATH','/home/joxean/Documentos/research/nightmare/samples',NULL,NULL);
-INSERT INTO "config" VALUES(9,'NIGHTMARE_PATH','/home/joxean/Documentos/research/nightmare',NULL,NULL);
+INSERT INTO "config" VALUES(7,'SAMPLES_PATH','/nightmare/results',NULL,NULL);
+INSERT INTO "config" VALUES(8,'TEMPLATES_PATH','/nightmare/samples',NULL,NULL);
+INSERT INTO "config" VALUES(9,'NIGHTMARE_PATH','/nightmare',NULL,NULL);
 INSERT INTO "config" VALUES(10,'QUEUE_HOST','localhost',NULL,NULL);
 INSERT INTO "config" VALUES(11,'QUEUE_PORT','11300',NULL,NULL);
 INSERT INTO "config" VALUES(12,'TEMPORARY_PATH','/tmp',NULL,NULL);
