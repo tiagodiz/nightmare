@@ -1,0 +1,9 @@
+a=b=c=e=z=instance_exec{
+    begin
+        r
+    ensure
+        def l
+        end
+    end
+}
+z
