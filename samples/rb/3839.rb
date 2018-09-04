@@ -1,1 +1,0 @@
-0.instance_eval { C = 1 }
