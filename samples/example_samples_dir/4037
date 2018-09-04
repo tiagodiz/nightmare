@@ -1,0 +1,4 @@
+BasicObject.prepend Enumerable
+
+class BasicObject < Class
+end

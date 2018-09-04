@@ -1,0 +1,1 @@
+ObjectSpace.each_object{|a = 1;obj|Array.new; obj===a = [ObjectSpace.each_object{1&a.initialize_copy(a).to_f|obj| obj}] rescue a = nil;class << a;def self.b;6;end;end;0}

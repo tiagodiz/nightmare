@@ -1,0 +1,8 @@
+class NoMethodError
+def initialize(a,b,c)
+    q
+    ensure e
+    end
+end
+
+a

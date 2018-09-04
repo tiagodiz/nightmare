@@ -1,0 +1,1 @@
+1.times{Fiber.current.resume}

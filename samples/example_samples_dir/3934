@@ -1,0 +1,7 @@
+class StandardError 
+  def initialize(x=nil,y)(x=nil,y)
+    super
+  end
+end
+
+abc

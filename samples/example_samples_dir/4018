@@ -1,0 +1,1 @@
+ObjectSpace.each_object{|a|b,b[0]=a.to_s<<a,[]if []rescue[];lambda{}}

@@ -1,0 +1,9 @@
+def to_str
+    Hash Z.capitalize.define_singleton_method e = Z.succ rescue
+    0 {} 
+ensure 
+    super rescue 
+    Z = x rescue 
+    %  
+end > 0
+Z <! 0
