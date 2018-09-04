@@ -1,8 +1,0 @@
-def z
-    e Array = a rescue 
-    lambda { yield }
-end
-
-z { break } 
-
-Array[]
