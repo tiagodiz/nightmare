@@ -1,1 +1,0 @@
-ObjectSpace.each_object{|obj| 10.times{};obj.freeze===a = [ObjectSpace.each_object{1|obj[]| obj}] rescue a = nil;}
