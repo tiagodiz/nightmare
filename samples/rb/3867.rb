@@ -1,7 +1,0 @@
-def to_str
-  a
-ensure
-  super
-end
-
-"" != []
