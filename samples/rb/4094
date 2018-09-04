@@ -1,0 +1,6 @@
+def r1
+   v = 1
+   return *v-1.to_i
+end
+
+r1

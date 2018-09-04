@@ -1,0 +1,4 @@
+r0=(0..0)
+ObjectSpace.each_object{ObjectSpace.each_object{def d
+end}
+r0.to_s}

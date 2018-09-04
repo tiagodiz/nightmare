@@ -1,0 +1,1 @@
+ObjectSpace.each_object{|a|A=(a.dup''.p).t``[]rescue''}

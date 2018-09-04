@@ -1,0 +1,10 @@
+begin
+def f()if 0
+end
+end
+next
+def f
+end
+rescue
+end
+d
